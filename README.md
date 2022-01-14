@@ -8,8 +8,8 @@ Kitconnect Coin is a secure and energy efficient PoW/PoS coin. Kitconnect Coin u
 
 #Kitconnect Coin Specification
 
-**Maximum ~~28 million~~ 28 QUADRiLLiON KitConnect coin will ever exist to the community.
-**
+**Maximum ~~28 million~~ 28 QUADRiLLiON KitConnect coin will ever exist to the community.**
+
 KitConnect coin adopt a variable PoS rate that will be given periodically payout as per following list,
 - 1st 6 months -> 60% (10% per month)
 - 2nd 6 months -> 50% (8% per month)
